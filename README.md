@@ -1,0 +1,2 @@
+# Relation-between-Stellar-mass-and-Star-Formation-rate
+I have used JWST data to find the relation between SFR and Stellar mass and  converting into parametric relation to measure Cosmological distances for high redshift galaxies . I have checked the redshift dependence of the relation by dividing them into redshift brackets. I have followed the methodology used in https://arxiv.org/pdf/2412.01853
